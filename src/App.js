@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>Start</code> LAMMEP.
+          ACD<code>Start</code> LAMMEP.
         </p>
         <a
           className="App-link"
